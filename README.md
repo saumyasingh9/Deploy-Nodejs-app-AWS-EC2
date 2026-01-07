@@ -1,7 +1,7 @@
 
 # Deploying a Node Js Application on AWS EC2
 
-### Testing the project locally
+###  Testing the project locally
 
 1. Clone this project
 ```
